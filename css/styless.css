@@ -4,15 +4,7 @@ body {
   background-color: #61122f;
   font-family: 'Oxygen', sans-serif;
 }
-#p {
-  background-color: red;
-}
-#b {
-  background-color: red;
-}
-#c {
-  background-color: green;
-}
+
 
 /** HEADER **/
 #header-nav {
