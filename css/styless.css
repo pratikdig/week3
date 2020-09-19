@@ -4,8 +4,17 @@ body {
   background-color: #61122f;
   font-family: 'Oxygen', sans-serif;
 }
+.chi{
+background-color: grey;
+}
 
+.bee{
+background-color: yellow;
+}
 
+.su{
+background-color: green;
+}
 /** HEADER **/
 #header-nav {
   background-color: black;
