@@ -7,6 +7,12 @@ body {
 #p {
   background-color: grey;
 }
+#b {
+  background-color: grey;
+}
+#c {
+  background-color: grey;
+}
 
 /** HEADER **/
 #header-nav {
